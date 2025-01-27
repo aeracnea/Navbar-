@@ -84,7 +84,6 @@ header .navbar{
     .nav-menu{
         position: fixed;
         top: -400%;
-        top:70px;
         gap: 0;
         flex-direction: column;
         background-color:whitesmoke;
