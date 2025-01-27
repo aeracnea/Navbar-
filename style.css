@@ -83,7 +83,7 @@ header .navbar{
 
     .nav-menu{
         position: fixed;
-        top: -100%;
+        top: -400%;
         top:70px;
         gap: 0;
         flex-direction: column;
