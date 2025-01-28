@@ -98,5 +98,6 @@ header .navbar{
 
     .nav-menu.active{
         top: 0;
+        left:0;
     }
 }
